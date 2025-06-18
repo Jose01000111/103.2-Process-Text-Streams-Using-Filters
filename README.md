@@ -6,8 +6,8 @@ I worked hands-on with various text filter commands such as `cut`, `sort`, `uniq
 I’ve included some helpful links to guide you through the lab and for studying afterward:
 
 - [LPIC-1 EXAM OBJECTIVE](https://www.lpi.org/our-certifications/exam-101-102-objectives/#103.2_Process_text_streams_using_filters)  
-- []  
-- []  
+- []()
+- []()
 
 ---
 
